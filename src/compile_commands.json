@@ -1,0 +1,26 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-o",
+      "../build/build",
+      "../build/build.c"
+    ],
+    "directory": "/home/hendrik/Coding/Ncurses/src",
+    "file": "/home/hendrik/Coding/Ncurses/build/build.c",
+    "output": "/home/hendrik/Coding/Ncurses/build/build"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-o",
+      "../output/Ncurses",
+      "../src/Ncurses.c"
+    ],
+    "directory": "/home/hendrik/Coding/Ncurses/src",
+    "file": "/home/hendrik/Coding/Ncurses/src/Ncurses.c",
+    "output": "/home/hendrik/Coding/Ncurses/output/Ncurses"
+  }
+]
