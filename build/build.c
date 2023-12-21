@@ -5,8 +5,8 @@
 #define COMPILER "gcc"
 #define SRC_DIR "../src/"
 #define OUTPUT_DIR "../output/"
-#define PROGRAM_NAME "Wifi-Connect"
-#define C_FILES "wifi-config.c"
+#define PROGRAM_NAME "SettingsMenu"
+#define C_FILES "settings_menu.c"
 #define INCLUDE ""
 #define LIB "-lncurses"
 #define RUN_PROGRAM_ON_COMPILE 1

@@ -1,0 +1,11 @@
+	SSID: Brink
+	SSID: Toni Room
+	SSID: Cumulus
+	SSID: Kruger Wifi 2.4GHz
+	SSID: Brink
+	SSID: Myburgh 2
+	SSID: Tony Office
+	SSID: Myburgh 3
+	SSID: Tony Lounge
+	SSID: Supersonic_Wifi
+	SSID: Tenda_66CD18
